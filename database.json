@@ -1,0 +1,49 @@
+{
+    "locations": [
+        {
+            "id": 1,
+            "name": "Franklin",
+            "address": "123 Brentwood Street",
+            "size": 1200
+        },
+        {
+            "id": 2,
+            "name": "Gallatin",
+            "address": "5 Henderson Street",
+            "size": 1300
+        },
+        {
+            "id": 3,
+            "name": "East",
+            "address": "67 Main Street",
+            "size": 1100
+        },
+        {
+            "id": 4,
+            "name": "Downtown",
+            "address": "505 Church Street",
+            "size": 2400
+        }
+
+    ],
+    "employees": [
+
+    ],
+    "customers": [
+
+    ],
+    "products": [
+
+    ],
+    "productTypes": [
+
+    ],
+    "productPurchases": [
+
+    ],
+    "purchases": [
+
+    ]
+
+
+}
