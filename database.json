@@ -27,21 +27,142 @@
 
     ],
     "employees": [
+        {
+            "id": 1,
+            "name": "John Appleseed"
+        },
+        {
+            "id": 2,
+            "name": "Fred Clause"
+        },
+        {
+            "id": 3,
+            "name": "Semore Butts"
+        }
+        
 
     ],
     "customers": [
+        {
+            "id": 1,
+            "name": "Randy Marsh"
+        },
+        {
+            "id": 2,
+            "name": "Fred Thompson"
+        },
+        {
+            "id": 3,
+            "name": "Jimmy Heaters"
+        }
 
     ],
     "products": [
+        {
+            "id": 1,
+            "name": "Juicy Fruit",
+            "productTypeId": 1,
+            "price": 2
+        },
+        {
+            "id": 2,
+            "name": "Snickers",
+            "productTypeId": 2,
+            "price": 2.50
+        },
+        {
+            "id": 3,
+            "name": "Double Bubble",
+            "productTypeId": 1,
+            "price": 0.75
+        },
+        {
+            "id": 4,
+            "name": "Twists",
+            "productTypeId": 3,
+            "price": 3
+        }
 
     ],
     "productTypes": [
+        {
+            "id": 1,
+            "name": "Gum"
+        },
+        {
+            "id": 2,
+            "name": "Chocolate"
+        },
+        {
+            "id": 3,
+            "name": "Licorice"
+        }
 
     ],
     "productPurchases": [
+        {
+            "id": 1,
+            "productId": 1,
+            "purchaseId": 1
+        },
+        {
+            "id": 2,
+            "productId": 3,
+            "purchaseId": 2
+        },
+        {
+            "id": 3,
+            "productId": 2,
+            "purchaseId": 3
+        },
+        {
+            "id": 4,
+            "productId": 4,
+            "purchaseId": 2
+        },
+        {
+            "id": 5,
+            "productId": 1,
+            "purchaseId": 2
+        },
+        {
+            "id": 6,
+            "productId": 1,
+            "purchaseId": 4
+        }
 
     ],
     "purchases": [
+        {
+            "id": 1,
+            "customerId": 1,
+            "employeeId": 2,
+            "locationId": 2
+        },
+        {
+            "id": 2,
+            "customerId": 2,
+            "employeeId": 2,
+            "locationId": 3
+        },
+        {
+            "id": 3,
+            "customerId": 2,
+            "employeeId": 3,
+            "locationId": 2
+        },
+        {
+            "id": 4,
+            "customerId": 3,
+            "employeeId": 2,
+            "locationId": 2
+        },
+        {
+            "id": 5,
+            "customerId": 1,
+            "employeeId": 1,
+            "locationId": 1
+        }
 
     ]
 
